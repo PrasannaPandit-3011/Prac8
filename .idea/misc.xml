@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/drawable/alarm_image_list.xml" value="0.1" />
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/drawable/gradient_drawable.xml" value="0.1" />
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/drawable/heart_image_list.xml" value="0.1" />
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/drawable/ic_heart_50.xml" value="0.1" />
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/drawable/uvpce_logo_list.xml" value="0.1" />
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/layout/activity_splash.xml" value="0.17527173913043478" />
+        <entry key="..\:/College/MAD/Prac8/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
